@@ -1,4 +1,4 @@
-## IIT 2C87 / Intel 80C187 Numeric Data Processor Interface
+# IIT 2C87 / Intel 80C187 Numeric Data Processor Interface
 
 ### Peripheral interface for the Raspberry Pi Pico 2 (RP2350) and similar microcontrollers
 
